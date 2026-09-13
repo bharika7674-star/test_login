@@ -1,4 +1,3 @@
 def login ():
-     print("login test started")
-     print("login test started")
-     print("login test started")
+     def login(username, password):
+          print("Login successful")

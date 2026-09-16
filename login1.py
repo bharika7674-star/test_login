@@ -1,7 +1,2 @@
-def login():
-    print("un Login successful")
-    print("earasy")
-    print("login successful")
-    print("login")
-    print("login failure")
-    print("it is a pp")
+def login(username, password):
+    print("Login successful")

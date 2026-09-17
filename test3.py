@@ -4,3 +4,6 @@ def main():
     print("nnnnnn")
     print("nnnnnnnn")
     print("honey")
+    print("vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv")
+    print("hari")
+    print("ggg")

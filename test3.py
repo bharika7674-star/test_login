@@ -1,9 +1,3 @@
-def main():
-    print("hello world")
-    print("yo")
-    print("nnnnnn")
-    print("nnnnnnnn")
-    print("honey")
-    print("vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv")
-    print("hari")
-    print("ggg")
+def test_login():
+    print("Login test executed")
+    print("jenkins test executed")

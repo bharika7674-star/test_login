@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Run Tests') {
             steps {
-                bat '"C:\\Program Files\\Python313\\python.exe" -m pytest -v'
+                bat '"C:\\Program Files\\Python313\\python.exe" -m pytest -v --alluredir=allure-results'
             }
         }
     }
